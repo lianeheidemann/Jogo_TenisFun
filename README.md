@@ -1,6 +1,6 @@
 # 🎾 TênisFun
 
-Projeto desenvolvido para a disciplina de :contentReference[oaicite:0]{index=0} utilizando Python e :contentReference[oaicite:1]{index=1}.
+Projeto desenvolvido para a disciplina de Computação Grafica utilizando Python e pygame
 
 O jogo simula uma partida de tênis em primeira pessoa com câmera fixa e elementos em Pixel Art, aplicando conceitos de transformações geométricas estudados em sala de aula.
 
