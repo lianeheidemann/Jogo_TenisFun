@@ -1,3 +1,4 @@
+<img width="800" height="462" alt="TênisFun" src="https://github.com/user-attachments/assets/dd2a47f7-1201-4587-9e5c-4b2cf3e454d2" />
 # 🎾 TênisFun
 
 Projeto desenvolvido para a disciplina de Computação Grafica utilizando Python e pygame
