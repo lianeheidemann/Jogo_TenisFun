@@ -112,8 +112,6 @@ tenis_fun/
 │   ├── menu_scene.py
 │   └── game_scene.py
 │
-├── ui/
-│   └── button.py
 ```
 
 ---
