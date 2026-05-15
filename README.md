@@ -124,9 +124,6 @@ tenis_fun/
 │   ├── player.py
 │   └── ball.py
 │
-├── ui/
-│   └── button.py
-│
 └── scenes/
     ├── menu_scene.py
     └── game_scene.py
