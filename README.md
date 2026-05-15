@@ -140,25 +140,12 @@ python main.py
 
 ---
 
-## 🎥 Demonstração
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dd2a47f7-1201-4587-9e5c-4b2cf3e454d2" width="750">
-</p>
-
----
-
 ## 👨‍💻 Autor(es)
 
 Projeto acadêmico desenvolvido para a disciplina de Computação Gráfica.
 
-- Nome:
-- Matrícula:
-- Turma:
-- Professor(a):
+- Nome: Liane F. Heidemann 
+- Turma:CC7NA
+- Professor(a): Suzana Lustosa de Sousa
 
----
 
-## 📄 Licença
-
-Uso acadêmico / educacional
