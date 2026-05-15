@@ -140,7 +140,6 @@ tenis_fun/
 | `court.py` | Renderização da quadra |
 | `player.py` | Jogadores e raquete |
 | `ball.py` | Física, rotação e escala da bola |
-| `button.py` | Botões reutilizáveis |
 | `menu_scene.py` | Tela inicial |
 | `game_scene.py` | Controle da gameplay |
 
